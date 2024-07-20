@@ -1,4 +1,0 @@
-<center>
-<h>VIJAY</h>
-<p>He is a actor</p>
-</center>
